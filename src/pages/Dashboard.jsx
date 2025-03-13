@@ -37,7 +37,7 @@ import { Badge } from "../components/ui/badge";
 import { Avatar, AvatarFallback, AvatarImage } from "../components/ui/avatar";
 import LoadingSpinner from "../components/LoadingSpinner";
 import ArrowUp from "../assets/arrowUp.svg";
-import ArrowDown from "../assets/arrowDown.svg";
+import ArrowDown from "../assets/ArrowDown.svg";
 import DashboardImg from "../assets/dashboard.svg";
 import Help from "../assets/help.svg";
 import UserImg from "../assets/user.svg";
